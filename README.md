@@ -32,7 +32,7 @@ Precision: Precision in project prediction measures the percentage of the projec
 Recall: the percentage of actual fail projects that the model correctly identified. It's like ensuring that you don't miss any of the real failure project.
 F1 score is a balance between precision and recall. It measures the overall accuracy performance of a model.
 
-7. **Result**:
+**Result**:
 - Based on the score from the metrics we used, Random Forest model came up with the highest accuracy score (96.43%).
 - Based on Feture Weighting and Backward selection techniques, we found that there are 5 significant factors that effect the success/failure of a project: User Involvement, Changing requirement and specification, user satisfaction, planning and technical compentence. 
 
