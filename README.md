@@ -1,7 +1,7 @@
 # IT-Code-Fair-Data-Science-Challenge
 
 I would like to ackowledge that this project has been done with my team members: Hai Vu, Cong Do Le (Peter) and Quang Thang. 
-And thanks to CDU IT Code Fair team and the sponsors to give us opportunitiy to participate in solving real life issue. 
+And thanks to CDU IT Code Fair team and the sponsors to give us opportunity to participate in solving real life issue. 
 
 **Project Background:**
 Australia’s Information Technology (IT) landscape has been marred by several high-profile IT project failures. Billions of dollars were wasted on projects that never delivered on their promises. The Robodebt scheme, the Queensland Health payroll system, and Victoria’s Myki Smart Card are just a few examples.
