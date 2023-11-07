@@ -34,6 +34,6 @@ F1 score is a balance between precision and recall. It measures the overall accu
 
 **Result**:
 - Based on the score from the metrics we used, Random Forest model came up with the highest accuracy score (96.43%).
-- Based on Feture Weighting and Backward selection techniques, we found that there are 5 significant factors that effect the success/failure of a project: User Involvement, Changing requirement and specification, user satisfaction, planning and technical compentence. 
+- Based on Feature Weighting and Backward selection techniques, we found that there are 5 significant factors that effect the success/failure of a project: User Involvement, Changing requirement and specification, user satisfaction, planning and technical compentence. 
 
 
